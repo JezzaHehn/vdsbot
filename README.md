@@ -1,1 +1,1 @@
-This is an almost-empty readme file to test github pushing.
+This project is a Discord bot for the ViossaDiskordServer. The first and primary responsibility of the bot is titrating users. Additional functionality, such as removing uwåki posts by emoji reaction votes, soon to come.
